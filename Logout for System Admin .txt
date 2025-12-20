@@ -1,0 +1,1 @@
+As a system Admin, I want to logout so that I can exit from the system.
