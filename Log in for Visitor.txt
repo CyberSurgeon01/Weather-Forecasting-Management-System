@@ -1,2 +1,0 @@
-As a registered visitor I want to log in the system to use it
-
