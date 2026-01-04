@@ -1,1 +1,0 @@
-As a visitor, I want to register an account to  use WFMS

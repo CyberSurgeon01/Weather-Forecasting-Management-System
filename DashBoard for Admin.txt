@@ -1,3 +1,0 @@
-As a admin , I want to use dashboard to get access all the features accordingly.
-
-
