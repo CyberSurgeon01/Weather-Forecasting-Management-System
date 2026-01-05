@@ -1,2 +1,12 @@
 # Weather-Forecasting-Management-System
-ToDO List
+
+\## Contribution
+
+Documentation updated by hasib245995-crypto.
+
+\## Contribution
+
+Updated README via pull request.
+
+
+
